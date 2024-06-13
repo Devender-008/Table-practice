@@ -27,9 +27,12 @@ This project includes several tables with different layouts and data. The CSS fi
 To use this project, simply clone the repository and open the `index.html` file in your web browser. The tables will be displayed with the applied styles from the `style.css` file.
 
 ```bash
-git clone https://github.com/your-username/tables-practice.git
+git clone [https://github.com/your-username/tables-practice.git](https://devender-008.github.io/Table-practice/)
 cd tables-practice
 open index.html
+```
+
+## File Structure
 
 tables-practice/
 │
