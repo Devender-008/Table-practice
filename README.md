@@ -9,8 +9,7 @@ This repository contains an HTML and CSS project demonstrating the creation and 
 2. [Features](#features)
 3. [Usage](#usage)
 4. [File Structure](#file-structure)
-5. [Screenshots](#screenshots)
-6. [License](#license)
+
 
 ## Overview
 
@@ -31,3 +30,10 @@ To use this project, simply clone the repository and open the `index.html` file 
 git clone https://github.com/your-username/tables-practice.git
 cd tables-practice
 open index.html
+
+tables-practice/
+│
+├── index.html    # The main HTML file containing the tables
+├── style.css     # The CSS file with styles for the tables
+└── README.md     # The README file (this file)
+
