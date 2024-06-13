@@ -27,13 +27,13 @@ This project includes several tables with different layouts and data. The CSS fi
 To use this project, simply clone the repository and open the `index.html` file in your web browser. The tables will be displayed with the applied styles from the `style.css` file.
 
 ```bash
-git clone [https://devender-008.github.io/Table-practice/](https://devender-008.github.io/Table-practice/)
+git clone https://github.com/Devender-008/Table-practice.git
 cd tables-practice
 open index.html
 ```
 
 ## File Structure
-
+```
 tables-practice/
 │
 ├── index.html    # The main HTML file containing the tables
