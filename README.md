@@ -7,8 +7,10 @@ This repository contains an HTML and CSS project demonstrating the creation and 
 
 1. [Overview](#overview)
 2. [Features](#features)
-3. [Usage](#usage)
-4. [File Structure](#file-structure)
+3. [Website](#website)
+4. [Usage](#usage)
+5. [File Structure](#file-structure)
+6. [Contributing](#Contributing)
 
 
 ## Overview
@@ -21,6 +23,13 @@ This project includes several tables with different layouts and data. The CSS fi
 - **Responsive Design**: Tables are designed to be responsive and adapt to various screen sizes.
 - **Editable Content**: Some table cells are editable, allowing for content modification directly within the table.
 - **Advanced CSS Techniques**: Utilizes gradients, shadows, transitions, and more to enhance the visual appearance of the tables.
+
+  
+## Website
+
+Here's a preview of what the project:
+
+[website](https://devender-008.github.io/Table-practice/)
 
 ## Usage
 
@@ -39,4 +48,10 @@ tables-practice/
 ├── index.html    # The main HTML file containing the tables
 ├── style.css     # The CSS file with styles for the tables
 └── README.md     # The README file (this file)
+```
+
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
